@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "firebase": "^9.14.0",
+    "react-router-dom": "^6.4.3",
+    "start": "node app.js"
+  }
+}
